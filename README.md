@@ -1,4 +1,3 @@
-<h1 align="center" style="color: #5865F2; margin-bottom: 0;">👋 Hi, I'm Shissu</h1>
 <h3 align="center" style="color: #FFFFFF; margin-top: 8px;">Everyday CS Student</h3>
 
 <p align="center">
