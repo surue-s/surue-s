@@ -23,5 +23,5 @@
 <img align="right" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="220" style="margin-left: 20px;" />
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MoktanSujita&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=surue-s&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
