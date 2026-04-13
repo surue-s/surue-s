@@ -24,5 +24,3 @@
 
 <p align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=MoktanSujita&theme=dracula" height="165" /></p>
-
----
