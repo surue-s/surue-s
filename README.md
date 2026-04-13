@@ -23,5 +23,6 @@
 <img align="right" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="220" style="margin-left: 20px;" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=surue-s&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=MoktanSujita&theme=dracula" height="165" /></p>
+
+---
