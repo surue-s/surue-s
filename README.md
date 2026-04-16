@@ -1,26 +1,34 @@
-<h3 align="center" style="color: #FFFFFF; margin-top: 8px;">Everyday CS Student, me yes </h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suru-e&label=Profile%20views&color=57F287&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-5865F2?style=flat&logo=discord&logoColor=white" alt="Status badge" />
-</p>
+<h2 style="color:#9f67ff; text-shadow: 0 0 8px #9f67ff66;">building, experimenting & learning</h2>
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=suru-e&label=profile+views&color=8b0000&style=flat" />
+&nbsp;
+<img src="https://img.shields.io/badge/status-learning_%26_building-6d28d9?style=flat&logoColor=white" />
 
+<br/>
 
-<!-- Connect section in Discord-style card -->
-<div align="center" style="background: #2F3136; padding: 24px; border-radius: 12px; margin: 32px auto; max-width: 700px; color: #FFFFFF; box-shadow: 0 4px 15px rgba(0,0,0,0.4);">
-  <h3 style="margin: 0 0 16px 0; color: #5865F2;">🌐 Connect with Me</h3>
-  <p style="margin: 0;">
-    <a href="https://www.instagram.com/deadcat_x.x/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="margin: 0 12px;" />
-    </a>
-    <!-- space for adding more links -->
-   
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=c084fc&center=true&vCenter=true&width=480&lines=building+things+that+i+have+fun+with;breaking+things+to+understand+them;somewhere+between+logic+and+chaos;learning" />
+
 </div>
 
-<!-- Floating GIF -->
-<img align="right" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="220" style="margin-left: 20px;" />
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=surue-s&theme=dracula" height="165" /></p>
+### `// connect`
+
+<a href="https://www.instagram.com/deadcat_x.x/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-8b0000?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=surue-s&hide_border=true&background=0a0a0f&ring=8b0000&fire=ff3b3b&currStreakNum=c084fc&sideNums=c084fc&currStreakLabel=9f67ff&sideLabels=6d28d9&dates=aaaaaa" height="165"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14001f,50:3b0764,100:8b0000&height=130&section=footer&animation=twinkling" />
