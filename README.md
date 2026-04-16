@@ -3,11 +3,10 @@
 <h2 style="color:#9f67ff; text-shadow: 0 0 8px #9f67ff66;">building, experimenting & learning</h2>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=suru-e&label=profile+views&color=8b0000&style=flat" />
-&nbsp;
-<img src="https://img.shields.io/badge/status-learning_%26_building-6d28d9?style=flat&logoColor=white" />
+<p align="center">
+  <img src="https://neon-badges.vercel.app/api/neon-views?u=suru-e" />
+</p>
 
-<br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=c084fc&center=true&vCenter=true&width=480&lines=building+things+that+i+have+fun+with;breaking+things+to+understand+them;somewhere+between+logic+and+chaos;learning" />
 
