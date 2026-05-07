@@ -16,8 +16,8 @@
 
 ### `// connect`
 
-<a href="https://www.instagram.com/deadcat_x.x/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-8b0000?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.linkedin.com/in/sachet-ghimire-4a4029297/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-8b0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachet-ghimire-4a4029297/" />
 </a>
 
 </div>
