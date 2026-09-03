@@ -12,7 +12,7 @@
 <tr>
 <td width="60%" valign="top">
 
-Surue, i'm a learning and growing CS student mainly focusing on machine learning systems. I like picking apart tools, exploring new trends on the side, and occasionally wandering into things that have nothing to do with code, like digital art. If it's interesting, I'll poke at it.
+Surue, i'm a learning and growing CS student mainly focusing on machine learning systems. I like picking apart tools, exploring new trends on the side, and occasionally wandering into things that have nothing to do with code, like digital art.
 
 <br/>
 
