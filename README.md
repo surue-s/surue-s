@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_BANNER_URL_HERE" width="100%"/>
+<img src="YOUR_BANNER_URL_HERE" width="50%"/>
 
 </div>
 
@@ -21,7 +21,7 @@ Surue, i'm a learning and growing CS student mainly focusing on machine learning
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="YOUR_ABOUT_IMAGE_URL_HERE" width="100%"/>
+<img src="https://github.com/surue-s/surue-s/blob/main/pixil-frame-0.png" width="100%"/>
 
 </td>
 </tr>
