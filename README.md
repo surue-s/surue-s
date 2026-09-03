@@ -1,33 +1,34 @@
 <div align="center">
 
-<h2 style="color:#9f67ff; text-shadow: 0 0 8px #9f67ff66;">building, experimenting & learning</h2>
+<img src="YOUR_BANNER_URL_HERE" width="100%"/>
+
+</div>
+
 <br/>
 
-<p align="center">
-  <img src="https://neon-badges.vercel.app/api/neon-views?u=suru-e" />
-</p>
+## <samp>about me</samp>
 
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=c084fc&center=true&vCenter=true&width=480&lines=building+things+that+i+have+fun+with;breaking+things+to+understand+them;somewhere+between+logic+and+chaos;learning" />
+Surue, i'm a learning and growing CS student mainly focusing on machine learning systems. I like picking apart tools, exploring new trends on the side, and occasionally wandering into things that have nothing to do with code, like digital art. If it's interesting, I'll poke at it.
 
-</div>
+<br/>
+
+**`connect:`** [LinkedIn](https://www.linkedin.com/in/sachet-ghimire-4a4029297/)
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="YOUR_ABOUT_IMAGE_URL_HERE" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
-
-### `// connect`
-
-<a href="https://www.linkedin.com/in/sachet-ghimire-4a4029297/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-8b0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachet-ghimire-4a4029297/" />
-</a>
-
+<samp>—— building things i have fun with, breaking things to learn ——</samp>
 </div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=surue-s&hide_border=true&background=0a0a0f&ring=8b0000&fire=ff3b3b&currStreakNum=c084fc&sideNums=c084fc&currStreakLabel=9f67ff&sideLabels=6d28d9&dates=aaaaaa" height="165"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14001f,50:3b0764,100:8b0000&height=130&section=footer&animation=twinkling" />
